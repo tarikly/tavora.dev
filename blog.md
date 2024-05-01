@@ -1,3 +1,4 @@
 layout: page
 title: "blog"
+categories: blog
 permalink: /blog
