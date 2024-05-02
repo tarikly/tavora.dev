@@ -7,7 +7,7 @@ url: "https://www.tavora.dev" # the base hostname & protocol for your site, e.g.
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: beautiful-jekyll
 plugins:
   - jekyll-feed
   - jekyll-paginate
