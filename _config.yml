@@ -15,6 +15,11 @@ plugins:
 
 show_excerpts: true
 
+collections:
+  blog:
+    output: true
+    permalink: /:collection/:name
+
 defaults:
   - scope:
       path: ""
