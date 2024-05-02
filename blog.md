@@ -15,8 +15,6 @@ The blog posts of this section are not related to anything specific.
   <ul class="post-list">
     {%- for post in site.categories.blog -%}
 
-    {%- include list-body.html -%}
-
     {%- endfor -%}
 
   </ul>
