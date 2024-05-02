@@ -3,6 +3,7 @@
     <div class="post-left">
       {%- if post.image -%}
       <img
+        src="{{ post.image | prepend: site.baseurl }}"
         alt="{{ post.title }}"
         title="{{ post.title }}"
       />
