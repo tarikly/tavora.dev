@@ -1,19 +1,5 @@
 <li>
   <a class="post-button" href="{{ post.url | relative_url }}">
-    <div class="post-left">
-      {%- if post.image -%}
-      <img
-        src="{{ post.image | prepend: site.baseurl }}"
-        alt="{{ post.title }}"
-        title="{{ post.title }}"
-      />
-      {%- else -%}
-      <img
-        alt="{{ post.title }}"
-        title="{{ post.title }}"
-      />
-      {%- endif -%}
-    </div>
     <div class="post-right">
       <h3 class="post-title">{{ post.title | escape }}</h3>
       <span class="post-meta-category"
