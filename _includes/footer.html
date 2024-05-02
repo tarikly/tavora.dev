@@ -5,11 +5,18 @@
   
       <div class="footer-col-wrapper">
         <div class="footer-col">
+          <!--
           <p class="feed-subscribe">
             <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
               <svg class="svg-icon orange">
                 <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
               </svg><span>Subscribe</span>
+            </a>
+          </p>
+          -->
+          <p class="u-url">
+            <a href="{{ relative_url }}">
+              </svg><span>{{ relative_url }}</span>
             </a>
           </p>
         {%- if site.author %}
