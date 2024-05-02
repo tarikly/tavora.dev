@@ -3,13 +3,11 @@
     <div class="post-left">
       {%- if post.image -%}
       <img
-        src="{{ post.image | prepend: site.baseurl }}"
         alt="{{ post.title }}"
         title="{{ post.title }}"
       />
       {%- else -%}
       <img
-        src="/assets/image/2018_08_01_stefanof_mct-master-630.jpg"
         alt="{{ post.title }}"
         title="{{ post.title }}"
       />
