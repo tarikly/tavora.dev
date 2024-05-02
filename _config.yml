@@ -3,7 +3,7 @@ title: tavora.dev
 #description: >- # this means to ignore newlines until "baseurl:"
 #  tavora website
 #baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://www.tavora.dev/blog" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.tavora.dev" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
