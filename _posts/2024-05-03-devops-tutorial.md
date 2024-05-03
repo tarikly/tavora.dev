@@ -3,7 +3,7 @@ layout: post
 categories: blog
 title: "Deploying apps to kubernetes using GHA"
 ---
-Deploying apps to kubernetes using GHA
+# Deploying apps to kubernetes using GHA
 
 Steps:
 
@@ -41,3 +41,17 @@ Steps:
   * `namespace`
   * `serviceaccount`
   * `token`
+
+5. Set secrets values to repository
+- create secrets in the repo settings to be used in workflows
+
+6. Deploy app to kubernetes using GHA
+- apply changes to the app code and push it to repository
+
+7. Publish app - deploy `ingress-nginx` to kubernetes
+- deploy ingress-nginx with Helm
+- create kubernetes services and ingresses resources to expose application to the internet
+
+8. Enable secure access to app - deploy `cert-manager` to kubernetes and set DNS
+- deploy cert-manager with Helm
+- create ingresses to enable TLS certificates
