@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Deploying apps to kubernetes using GHA - part 1"
+categories: blog
+title: "Deploying apps to kubernetes using GHA"
 ---
 Deploying apps to kubernetes using GHA
 
