@@ -2,6 +2,7 @@
 layout: post
 categories: blog
 title: "Deploying apps to kubernetes using GHA"
+author: tavora
 ---
 # Deploying apps to kubernetes using GHA
 
