@@ -1,0 +1,99 @@
+Tavora Lira
+  Profile
+
+Tavora is an accomplished System Administrator/SRE/DevOps with 10 years of experience, focused on maximizing system uptime and specializing in IT outsourcing services. With a diverse set of skills in systems administration, SRE, DevOps culture, and programming/scripting languages and frameworks including BASH and Python/Django, Tavora has a proven track record of managing on-premises datacenter resources and cloud services. He has worked across various industries, including education and business services, delivering projects of varying sizes and complexities.
+
+Tavora collaborates effectively on challenging projects, bringing strong oral and written communication skills to the table. He operates with urgency and efficiency, driven by his passion for technology, SRE, and DevOps culture. His focus on optimizing service performance and his ability to navigate the entire software development lifecycle, from planning to deployment, make him a valuable asset to any team.
+
+  Skill Set
+
+Linux
+BASH
+AWS
+EKS 
+Kubernetes
+Docker
+Containers
+ECS
+Terraform
+GHA
+Jenkins
+Kustomize
+Ansible
+Cloud Watch
+Zabbix
+Jira
+GSuite
+Slack
+Agile Methodologies
+
+
+  Experience
+
+2023 - 2024	 Freelancer	United States, Remote
+	 Senior DevOps Engineer
+Reason for leaving: Seeking new challenges and working with multicultural teams.
+Client undisclosed due to confidentiality agreements.
+Conducted refactoring of Terraform Infrastructure as Code (IaC) to enhance scalability and maintainability.
+Maintained and optimized CI/CD pipelines using Jenkins and GitHub Actions, streamlining deployment processes.
+Orchestrated the provisioning, maintenance, and monitoring of AWS services, leveraging Datadog for comprehensive observability and performance management.
+Troubleshooted EKS/Kubernetes issues and incidents, optimizing cluster performance and reliability.
+Provided essential support to DevOps squads and teams throughout the Software Development Life Cycle (SDLC), ensuring alignment with project objectives.
+Facilitated knowledge transfer sessions among team members, fostering continuous learning and skill development.
+Collaborated closely with Data Engineers to deliver insightful reports using big data tools such as Astronomer, Airflow, and Snowflake, contributing to data-driven decision-making.
+Actively participated in agile scrum meetings to prioritize tasks, address challenges, and ensure timely project delivery.
+Mentored junior developers, sharing best practices in DevOps methodologies.
+
+Technologies used: Bash, Python, Terraform, AWS EKS, Kubernetes, SQL, Snowflake, Airflow, Astronomer, Datadog, Prometheus, Grafana, AWS CloudWatch, AWS Route 53, AWS Load Balancers, git, Linux/MS Windows
+
+
+
+2022 - 2023	 Agendor 	Sao Paulo, Brazil, Remote
+	 Site Reliability Engineer
+Reason for leaving: Seeking international opportunities.
+Maintained and enhanced CI/CD pipelines using Jenkins.
+Provisioned, maintained, and monitored AWS services; troubleshooted EKS/Kubernetes issues and incidents.
+Supported teams through the SDLC, providing guidance on containerization.
+Managed customer environment installations.
+Administered AWS RDS databases for provisioning, backup, monitoring, performance tuning, scaling, security, maintenance, availability, cost optimization, compliance, and automation.
+Conducted coding and configuration on various application servers and database engines.
+Regularly reported AWS costs to stakeholders, summarizing current spending, trends, forecasts, and savings opportunities.
+Assisted developers with daily troubleshooting tasks.
+Facilitated knowledge transfer sessions among team members.
+Mentored new team members as part of their onboarding process.
+
+Technologies used: Bash, Python, Jenkins, AWS EKS, Kubernetes, AWS RDS, AWS Lambda, Route 53, Cloud Formation, git, New Relic, Prometheus, Grafana, AWS CloudWatch, AWS Route 53, AWS Load Balancers, Linux
+
+
+
+
+2018 - 2022	 CODATA	Joao Pessoa, Brazil, Remote
+	 Site Reliability Engineer
+Reason for leaving: Seeking international opportunities.
+Maintained and enhanced CI/CD pipelines using GitLab Pipelines.
+Provisioned, maintained, troubleshooted and monitored Kubernetes;
+Supported teams through the SDLC, providing guidance on containerization.
+Managed customer environment installations.
+Assisted developers with daily troubleshooting tasks.
+Facilitated knowledge transfer sessions among team members.
+
+Technologies used: Bash, Python, GitLab, Openshift, Rancher, Kubernetes, git, Prometheus, Grafana, Linux, VMWare
+
+
+2017 - 2022	 The Federal University of Campina Grande	Campina Grande, Brazil
+	 Systems Analyst/System Administrator
+Reason for leaving: Seeking a remote role.
+Planned and managed migration of legacy on-premises services to a new HCI data center.
+Set up, customized, monitored, kept up-to-date, and documented a ticket system (approximately 30,000 users).
+Designed support statistics and accountability dashboard using Metabase.
+Implemented, monitored, kept up-to-date, and documented Zabbix server as a service monitoring tool (monitoring approximately 40 applications, 20 core network devices, VMware, UPS, and power generators).
+
+Technologies used: BASH, Python, Django, PHP, VMware, Zabbix, Linux/MS Windows
+
+  Education
+
+2017 - 2019  	Master’s Degree in Software Engineering	
+                          ESAB, Brazil
+
+2006 - 2013  	Bachelor’s Degree in Computer Networks	
+                          IFPB, Joao Pessoa, Paraiba, Brazil
